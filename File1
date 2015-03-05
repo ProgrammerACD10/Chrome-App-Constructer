@@ -1,4 +1,9 @@
 
 */File #1*\
 
-1. You need a folder that you can place your files in. Create a file like Chrome_App_1.
+1. You need a folder that you can place your files in. Create a folder named Chrome_App_1.
+
+2. This will be a folder that you will unpack to create the app.
+
+3. Next, create three new files in the folder named "Chrome_App_1": manifest.json, background.js, and window.html
+  They are located in the Chrome-App-Constructer (WARNING! Keep it this way. You will know why.)
