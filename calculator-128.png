@@ -1,0 +1,3 @@
+git push
+git add 'calculator-128.png'
+git commit -m "calculator-128"
