@@ -8,4 +8,6 @@
 3. Next, create three new files in the folder named "Chrome_App_1": manifest.json, background.js, and window.html
   They are located in the Chrome-App-Constructer (WARNING! Keep it this way. You will know why.)
   
-4. Next upload these type of images: 16 by 16  and  128 by 128
+4. Next upload these type of images: 16 by 16  and  128 by 128 to the folder.
+
+5. It is ready! Now, go onto this file on Google Chrome: chrome://flags
